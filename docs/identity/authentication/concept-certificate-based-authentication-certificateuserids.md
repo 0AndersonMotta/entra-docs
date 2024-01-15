@@ -69,9 +69,13 @@ Use the following steps to update certificateUserIds for users:
 
    :::image type="content" border="true" source="./media/concept-certificate-based-authentication-certificateuserids/view.png" alt-text="Screenshot of View authorization info.":::
 
+:::The image did not correspond to correct blade option.
+
 1. Click **Edit certificate user IDs**.
 
    :::image type="content" border="true" source="./media/concept-certificate-based-authentication-certificateuserids/edit-cert.png" alt-text="Screenshot of Edit certificate user IDs.":::
+
+:::The image did not correspond to correct blade option.
 
 1. Click **Add**.
 
