@@ -61,9 +61,9 @@ Use the following steps to update certificateUserIds for users:
    :::image type="content" border="true" source="./media/concept-certificate-based-authentication-certificateuserids/user.png" alt-text="Screenshot of test user account.":::
 
 1. Click a user, and click **Edit Properties**. 
-
+ IMAGE BLADE in ENTRA ID IS INCORRECT
 1. Next to **Authorization info**, click **View**.
-
+ IMAGE BLADE in ENTRA ID IS INCORRECT
    :::image type="content" border="true" source="./media/concept-certificate-based-authentication-certificateuserids/view.png" alt-text="Screenshot of View authorization info.":::
 
 1. Click **Edit certificate user IDs**.
